@@ -1,1 +1,1 @@
-# Torifux
+# Torifux OS
