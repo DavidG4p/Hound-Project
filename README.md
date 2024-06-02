@@ -1,3 +1,3 @@
 # Torifux OS
 
-![Torifux_logo](https://github.com/DavidG4p/Torifux/assets/169712177/9030d7dc-4ed3-4c0b-bda0-71ac70950df3)
+![Torifux_logo_v1 0](https://github.com/DavidG4p/Torifux/assets/169712177/7d604912-1883-4363-ac57-6acb5e347de7)
