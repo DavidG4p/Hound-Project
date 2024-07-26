@@ -51,71 +51,80 @@ Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de
 >
 >  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados de el navegador TOR.
 
-
-## Email 📧
-
-Para el uso del correo electrónico, se ha procedido a instalar Proton Mail el cual proviene de un servicio de correo electrónico cifrado de extremo a extremo.
-
-* Proton Mail
-
 ## Herramientas ⚙️
 
 En este apartado se detallarán las distintas herramientas enfocadas al OSINT instaladas en la distribución Hound OS.
 
+### Análisis de datos 🔎
+- DumpsterDiver
+
 ### Dominios 🛡️
-- Sublist3r
-- Amass 
-
-### Herramientas de descarga ⬇️
-- Browse Mirrored Websites
-- Metagoofil 
-- Spiderpig 
-- WebHTTrack Website Copier 
-- Yt-dlp 
-
+-    Amass
+-    Checkdmark
+-    Sublist3r
 
 ### Email ✉️
-- Buster 
-- H8mail 
-- theHarvester 
+-    Buster
+-    H8mail
+-    TheHarvester
 
-### Análisis de datos 🔎
-
-- DumpsterDiver 
-- Exiftool 
-- Exif 
-- Photon 
-- Stegosuite Terminal
-- Steghide 
-
-### Esteganografía 🖼️
-- Exiftool 
-
-### Metadatos 🔬
-- Metagoofil 
+### Herramientas de descarga ⬇️
+-    Browse Mirrored Websites
+-    Metagoofil
+-    Spiderpig
+-    WebHTTrack Website Copier
+-    Yt-dlp
 
 ### Geolocalización 📍
-- Creepy 
+-    Creepy
+
+### Web 🌐
+-    Carbon14
+
+### Esteganografía 🖼️
+-    Exiftool
+-    Exif
+-    Photon
+-    Stegosuite Terminal
+-    Steghide
+
+### Metadatos 🔬
+-    Metagoofil
 
 ### Infraestructura 🏰
-- FinalRecon 
-- Little Brother 
-- recon-ng 
-- sn0int 
-- Spiderfoot  
-- WikiLeaker 
+-    FinalRecon
+-    Little Brother
+-    Recon-ng
+-    Sn0int
+-    Spiderfoot
+-    WikiLeaker
 
-### Números de Telefono ☎️
-- Th3Inspector 
-- PhoneInfoga 
+###  Números de Telefono ☎️
+-    PhoneInfoga
+-    Th3Inspector
 
 ### Redes Sociales 📱
-- osi.ig 
-- Instaloader 
-- OSINTGRAM 	
-- TWOSINT 
-- X-Osint 
+-    Instaloader
+-    Osi.ig
+-    OSINTGRAM
+-    TWOSINT
+-    X-Osint
 
 ### Usuarios 👥
-- Sherlock 
+-    Blackbird
+-    Sherlock
 
+
+###  Editor de Texto e IDE 👨‍💻
+-    Notepad ++
+-    Pycharm
+-    Visual Studio Code
+
+### 🪛Otras Herramientas🪛    
+- Shodan-python 
+- Maltego 
+- Keepassxc  
+- Cherrytree 
+- Google Earth Pro 
+- Terminator
+- ProtonMail
