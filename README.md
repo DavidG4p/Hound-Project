@@ -45,6 +45,11 @@ Para estos navegadores se ha implementado una configuración de seguridad como p
 
 ## Marcadores 🔖
 
+Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser versatil para cualquier investigación que se lleve a cabo. 
+
+> Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT.
+>
+>  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados de el navegador TOR.
 
 
 ## Email 📧
