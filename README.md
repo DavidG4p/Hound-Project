@@ -43,13 +43,35 @@ Para estos navegadores se ha implementado una configuración de seguridad como p
 * Google Chromium
 * Tor Browser
 
-## Marcadores 🔖
+### Marcadores 🔖
 
 Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser versatil para cualquier investigación que se lleve a cabo. 
 
 > Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT.
 >
 >  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados de el navegador TOR.
+
+### Extensiones 🧩
+Tomando de referencia el objetivo de realizar una investigación OSINT, se ha procedido a agregar una colección extensiones en los navegadores Firefox y Chrome. 
+
+En el caso de Firefox 🦊 se ha implementado las siguientes extensiones:
+- Firefox Multi-Account Containers:  Las cookies se separan por contenedor, lo que te permite usar la web con varias cuentas.
+- uBlock Origin: Bloqueador de publicidad.
+- DownThemAll!: Descargador masivo para tu navegador.
+- SingleFile: Guarda una página web completa en un archivo HTML.
+- Exif Viewer: Muestra los datos Exif de imagenes locales o remotas.
+- Dark Reader: Modo oscuro para todos los sitios web.
+- OneTab: Convierta las pestañas de tu navegador en una lista.
+- FoxyProxy: Herramienta de gestión de proxy.
+
+
+En el caso de Google Chrome 🇬 se ha implementado las siguientes extensiones:
+- InVID WeVerify: Verificación de hechos y desacreditación en las redes sociales, especialmente a la hora de verificar vídeos e imágenes. 
+- Ublock: Bloqueador de publicidad.
+- downthemall: Descargador masivo para tu navegador.
+- singleFile: Guarda una página web completa en un archivo HTML.
+- OneTab: Convierta las pestañas de tu navegador en una lista.
+- Wayback Machine: Reabre la pestaña actual en la Wayback Machine.
 
 ## Herramientas ⚙️
 
