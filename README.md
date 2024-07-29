@@ -154,8 +154,19 @@ No obstante, nos encontraremos herramientas con distintos objetivos por ello, se
 - Terminator
 - ProtonMail
 
-# Descarga e iniciación del entorno 
+# Descarga e iniciación del entorno 💻🕵🏻‍♂️
 
 El entorno se debe de descargar desde el siguiente [LINK](https://########.###).
 
-La contraseña del comprimido es " TheHoundProject " 
+La contraseña del comprimido es " TheHoundProject ".
+
+Las credenciales de acceso a la máquina "Hound Desktop" son:
+ - Usuario: "hound"
+ - Contraseña: "Hound_Pa$$"
+
+Las credenciales de acceso a Pfsense son:
+- Usuario: "admin"
+- Contraseña: "Hound_Pa$$"
+
+> [!IMPORTANT]
+> En caso de contar con un perfil técnico, se ha procedido a generar una pequeña guía donde podremos ver desde la importación del entorno hasta su ejecución en el siguiente [enlace](https://github.com/DavidG4p/Hound-Project/blob/e9c8b2667fad3e7b686b1f41ef3720050bb78362/GUIA_RAPIDA.md) o accediendo a _**GUIA_RAPIDA.md**_
