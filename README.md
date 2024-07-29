@@ -153,3 +153,9 @@ No obstante, nos encontraremos herramientas con distintos objetivos por ello, se
 - Google Earth Pro 
 - Terminator
 - ProtonMail
+
+# Descarga e iniciación del entorno 
+
+El entorno se debe de descargar desde el siguiente [LINK](https://########.###).
+
+La contraseña del comprimido es " TheHoundProject " 
