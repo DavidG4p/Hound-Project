@@ -6,7 +6,7 @@
 # THE HOUND PROJECT 🐶🔎
 _**The Hound Project**_ es un proyecto orientado a la realización de una investigación aplicando Inteligencia en Fuentes Abiertas (OSINT).
 
-El objetivo de este proyecto son proporcionar al analista un entorno en el cual se garantice el mayor anonimato y la mayor seguridad posible de cara a la realización de una investigación y por otro lado proporcionar una distribución customizada con diversas herramientas y aplicaciones para desempeñar las labores de investigación pertinentes por el analista.
+El objetivo de este proyecto son proporcionar al analista un entorno en el cual se garantice el mayor anonimato y la mayor seguridad posible de cara a la realización de una investigación y por otro lado proporcionar una distribución customizada con dis herramientas y aplicaciones para desempeñar las labores de investigación pertinentes por el analista.
 
 Este proyecto consta de dos máquinas virtuales las cuales han sido implementadas y adecuadas para su virtualización en el hipervisor **VirtualBox**.
 
@@ -35,7 +35,7 @@ Hound OS como bien se ha indicado en el punto anterior, es una distribución per
 ## Navegadores 🧭
 
 Nos encontramos distintas aplicaciones de navegadores Web, se ha procedido a optar a implementar los dos navegadores más usados que sin Firefox en su versión ESR (Extended Support Release) y Google Chromium. 
-Para estos navegadores se ha implementado una configuración de seguridad como por ejemplo, la eliminación del historial o la caché en el cierre de los navegadores.  
+Para estos navegadores se ha implementado una configuración de seguridad como, por ejemplo, la eliminación del historial o la caché en el cierre de los navegadores.  
 
   Por otro lado, se ha optado por la instalación de TOR Browser para en caso de ser necesaria la navegación por la Red TOR poder hacerlo con su correspondiente navegador.
 
@@ -45,11 +45,11 @@ Para estos navegadores se ha implementado una configuración de seguridad como p
 
 ### Marcadores 🔖
 
-Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser versatil para cualquier investigación que se lleve a cabo. 
+Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser til para cualquier investigación que se lleve a cabo. 
 
 > Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT.
 >
->  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados de el navegador TOR.
+>  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados del navegador TOR.
 
 ### Extensiones 🧩
 Tomando de referencia el objetivo de realizar una investigación OSINT, se ha procedido a agregar una colección extensiones en los navegadores Firefox y Chrome. 
@@ -59,7 +59,7 @@ En el caso de Firefox 🦊 se ha implementado las siguientes extensiones:
 - uBlock Origin: Bloqueador de publicidad.
 - DownThemAll!: Descargador masivo para tu navegador.
 - SingleFile: Guarda una página web completa en un archivo HTML.
-- Exif Viewer: Muestra los datos Exif de imagenes locales o remotas.
+- Exif Viewer: Muestra los datos Exif de imágenes locales o remotas.
 - Dark Reader: Modo oscuro para todos los sitios web.
 - OneTab: Convierta las pestañas de tu navegador en una lista.
 - FoxyProxy: Herramienta de gestión de proxy.
@@ -75,7 +75,8 @@ En el caso de Google Chrome 🇬 se ha implementado las siguientes extensiones:
 
 ## Herramientas ⚙️
 
-En este apartado se detallarán las distintas herramientas enfocadas al OSINT instaladas en la distribución Hound OS.
+En este apartado se detallarán las distintas herramientas enfocadas las cuales han sido instaladas en la distribución Hound OS.
+No obstante, nos encontraremos herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
 
 ### Análisis de datos 🔎
 - DumpsterDiver
@@ -121,7 +122,7 @@ En este apartado se detallarán las distintas herramientas enfocadas al OSINT in
 -    Spiderfoot
 -    WikiLeaker
 
-###  Números de Telefono ☎️
+###  Números de Teléfono ☎️
 -    PhoneInfoga
 -    Th3Inspector
 
