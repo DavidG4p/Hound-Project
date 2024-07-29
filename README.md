@@ -27,7 +27,8 @@ A continuación, se proporciona una imagen de la topología de la distribución 
 <img src="https://github.com/DavidG4p/Hound-Project/assets/169712177/d2f63c86-1644-4e68-a110-7123604a31c4">
 </p>
 
-> _**Nota:**_ Ambas máquinas están pensadas para su virtualización en VirtualBox dado que se ha implementado el entorno en dicho software hipervisor y se ha realizado la instalación del agente  "GuestAdditions" para su optimo funcionamiento en VirtualBox.
+> [!Note]
+> Ambas máquinas están pensadas para su virtualización en VirtualBox dado que se ha implementado el entorno en dicho software hipervisor y se ha realizado la instalación del agente  "GuestAdditions" para su optimo funcionamiento en VirtualBox.
 
 # HOUND OS v0.1 💻
 Hound OS como bien se ha indicado en el punto anterior, es una distribución personalizada de Ubuntu 22.04 LTSR, esta distribución la encontraremos implementada en la máquina _**Hound Desktop**_. Esta distribución dispone de una gran colección de herramienta, aplicaciones y marcadores enfocados a la investigación OSINT que se detallaran a continuación.
@@ -47,6 +48,7 @@ Para estos navegadores se ha implementado una configuración de seguridad como, 
 
 Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser til para cualquier investigación que se lleve a cabo. 
 
+> [!IMPORTANT]
 > Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT.
 >
 >  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados del navegador TOR.
