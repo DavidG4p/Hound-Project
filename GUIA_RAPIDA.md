@@ -1,5 +1,5 @@
 # Guía Rápida 📖
-Esta guía esta pensada para los analistas que cuentan bajo conocimiento de informática o en entornos virtualizados, la idea es permitir con esta pequeña guía proporcionar al analista una fácil accesibilidad su utilización.
+Esta guía esta pensada para los analistas que cuentan bajo conocimiento de informática o en entornos virtualizados, la idea es permitir con esta pequeña guía proporcionar al analista una fácil accesibilidad para su utilización.
 
 
 ## Descarga del entorno ⬇️
@@ -12,12 +12,12 @@ Dado  que el comprimido tiene establecida una contraseña de encriptado, indicar
 
 La contraseña del comprimido es " TheHoundProject " 
 
-## Importar máquina virtual 💻
+## Importación del entorno ⬆️
 
-Una vez tengamos el archivo .zip descomprimido, procederemos a importar las máquinas virtuales en nuestro software Virtualbox.
+Una vez tengamos el archivo .zip descomprimido, procederemos a importar las máquinas virtuales en nuestro software VirtualBox.
 
 > [!NOTE]
-> Este procedimiento se explicará una vez pero indicar que hay que hacer este procedimiento dos veces, una para importar la máquina "Hound Gateway" y otra para importar la máquina "Hound Desktop".
+> Este procedimiento se explicará una vez, pero indicar que hay que hacer este procedimiento dos veces, una para importar la máquina "Hound Gateway" y otra para importar la máquina "Hound Desktop".
 
 1. Abrir la aplicación VirtualBox y en el panel superior pulsar "Archivo" > "Importar servicio virtualizado..."
 <p align="center">
@@ -38,3 +38,20 @@ Una vez tengamos el archivo .zip descomprimido, procederemos a importar las máq
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b27324bf-8cf5-4b69-a0ad-9a191f1cfb55"
 </p>
+
+## Ejecución del entorno 💻🕵🏻‍♂️
+Una vez tengamos todas las máquinas importadas, en el panel de VirtualBox nos encontraremos con las dos máquinas virtuales.
+
+1. En primer lugar, procederemos con el encendido de la máquina "Hound Gateway".
+   Dado que esta máquina no la vamos a necesitar ya que podemos acceder a ella desde la máquina "Hound Desktop", procederemos a realizar un "Inicio sin pantalla" como se muestra en la siguiente imagen haciendo click derecho sobre la máquina.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7cb9f181-2adc-4006-a2e0-5e06efc3612b"
+</p>
+
+2. Una vez esté encendida la máquina "Hound Gateway", procederemos con la ejecución de la máquina "Hound Desktop". En este caso el tipo de inicio de la máquina será "Inicio normal".
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9dcfb84b-2b35-48f2-bfe3-a37726e2a110"
+</p>
+
+> [!NOTE]
+> Es normal si al encender la máquina "Hound Desktop" la encontramos sin red, esto puede deberse a que todavía no ha terminado de arrancar la máquina de "Hound Gateway", una vez termine de arrancar ya tendremos red en la máquina escritorio.
