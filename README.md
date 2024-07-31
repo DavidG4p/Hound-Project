@@ -8,7 +8,7 @@ _**The Hound Project**_ es un proyecto orientado a la realización de una invest
 
 El objetivo de este proyecto son proporcionar al analista un entorno en el cual se garantice el mayor anonimato y la mayor seguridad posible de cara a la realización de una investigación y por otro lado proporcionar una distribución customizada con dis herramientas y aplicaciones para desempeñar las labores de investigación pertinentes por el analista.
 
-Este proyecto consta de dos máquinas virtuales las cuales han sido implementadas y adecuadas para su virtualización en el hipervisor **VirtualBox**.
+Este entorno consta de dos máquinas virtuales las cuales han sido implementadas y adecuadas para su virtualización en el hipervisor **VirtualBox**.
 
 *  _**Hound Gateway**_ como bien indica el nombre haría de Gateway, es una máquina virtual la cual tiene una implementación de Pfsense con distintas configuraciones preestablecidas y se ha implementado un Sistema de Detección de Intrusos (IDS) con Suricata para así disponer de un gateway intermediario con una monitorización del tráfico para en caso de ser necesario poder hacer un análisis del tráfico.
   
@@ -36,9 +36,9 @@ Hound OS como bien se ha indicado en el punto anterior, es una distribución per
 ## Navegadores 🧭
 
 Nos encontramos distintas aplicaciones de navegadores Web, se ha procedido a optar a implementar los dos navegadores más usados que sin Firefox en su versión ESR (Extended Support Release) y Google Chromium. 
-Para estos navegadores se ha implementado una configuración de seguridad como, por ejemplo, la eliminación del historial o la caché en el cierre de los navegadores.  
+Para estos navegadores se ha implementado una configuración de seguridad como, por ejemplo, la restricción del uso de microfono, ubicación y la cámara o la eliminación de los datos tras el cierre del navegador.  
 
-  Por otro lado, se ha optado por la instalación de TOR Browser para en caso de ser necesaria la navegación por la Red TOR poder hacerlo con su correspondiente navegador.
+Por otro lado, se ha optado por la instalación de TOR Browser para en caso de ser necesaria la navegación por la Red TOR poder hacerlo con su correspondiente navegador.
 
 * Firefox ESR
 * Google Chromium
