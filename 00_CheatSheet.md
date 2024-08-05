@@ -27,9 +27,8 @@ Tras analizar el comando vemos que introduciendo el comando seguido de la url qu
 Tras lanzar el comando vemos qwue nos información de las cabeceras HTTP y las imagenes interas y externas.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f0f75d95-ce03-4a8e-a16b-646a49a4bb23"
+<img src="https://github.com/user-attachments/assets/2a12095f-c8ff-42bf-a73a-27414913decb"
 </p>
-
 
 # Análisis de datos 🔎
 -    dumpsterDiver
