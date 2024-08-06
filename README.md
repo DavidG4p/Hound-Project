@@ -1,6 +1,6 @@
 # 🚀 EN DESARROLLO 🚀 
 <p align="center">
-<img src="https://github.com/DavidG4p/Hound-Project/assets/169712177/907fcb07-ea56-42a6-b2c1-e18c70f6c2b5">
+<img src="https://github.com/user-attachments/assets/70e76d94-29e6-4bb5-8c32-39eb769b1a78">
 </p>
 
 # THE HOUND PROJECT 🐶🔎
@@ -33,6 +33,10 @@ A continuación, se proporciona una imagen de la topología de la distribución 
 # HOUND OS v0.1 💻
 Hound OS como bien se ha indicado en el punto anterior, es una distribución personalizada de Ubuntu 22.04 LTSR, esta distribución la encontraremos implementada en la máquina _**Hound Desktop**_. Esta distribución dispone de una gran colección de herramienta, aplicaciones y marcadores enfocados a la investigación OSINT que se detallaran a continuación.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5f3220f9-b028-4d84-a319-b3a4a079d4f0">
+</p>
+
 ## Navegadores 🧭
 
 Nos encontramos distintas aplicaciones de navegadores Web, se ha procedido a optar a implementar los dos navegadores más usados que sin Firefox en su versión ESR (Extended Support Release) y Google Chromium. 
@@ -48,7 +52,7 @@ Por otro lado, se ha optado por la instalación de TOR Browser para en caso de s
 
 Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser til para cualquier investigación que se lleve a cabo. 
 
-> [!IMPORTANT]
+> [!NOTE]
 > Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT.
 >
 >  Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/darkweb-bookmark-stack) un acceso directo a la página de descarga de los marcadores OSINT de la DarkWeb usados del navegador TOR.
