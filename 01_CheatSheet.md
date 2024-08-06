@@ -32,40 +32,34 @@ Tras lanzar el comando vemos qwue nos información de las cabeceras HTTP y las i
 
 # Análisis de datos 🔎
 -    dumpsterDiver
--    creepy
 -    photon
 -    Th3inspector
+-    foremost
 
 # Dominios 🛡️
 -    amass
 -    checkdmark
 -    sublist3r
-
+-    masscan
   
 > [!IMPORTANT]
 > En el caso de __amass__, debe de ejecutarse con permisos de administrador. (sudo amass ....)
-
 
 # Email ✉️
 -    buster
 -    h8mail
 -    theHarvester
 
+# Esteganografía 🖼️
+-    photon
+-    stegosuite
+-    steghide
+  
 # Herramientas de descarga ⬇️
 -    metagoofil
 -    spiderpig
 -    httrack
 -    yt-dlp
-
-# Web 🌐
--    carbon14
-
-# Esteganografía 🖼️
--    exiftool
--    exif
--    photon
--    stegosuite
--    steghide
 
 # Infraestructura 🏰
 -    finalRecon
@@ -75,18 +69,22 @@ Tras lanzar el comando vemos qwue nos información de las cabeceras HTTP y las i
 -    spiderfoot
 -    wikileaker
 
-#  Números de Teléfono ☎️
--    phoneInfoga
+# Metadatos 🔬
+-    exif
+-    exiftool
 
+# Números de Teléfono ☎️
+-    phoneInfoga
 
 # Redes Sociales 📱
 -    instaloader
--    osi.ig
 -    osintgram
 -    twosint
 -    xosint
 
+# Web 🌐
+-    carbon14
+
 # Usuarios 👥
 -    blackbird
 -    sherlock
-
