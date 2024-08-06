@@ -80,72 +80,68 @@ En el caso de Google Chrome 🇬 se ha implementado las siguientes extensiones:
 En este apartado se detallarán las distintas herramientas enfocadas las cuales han sido instaladas en la distribución Hound OS.
 No obstante, nos encontraremos herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
 
-### Análisis de datos 🔎
-- DumpsterDiver
+# Análisis de datos 🔎
+-    dumpsterDiver
+-    photon
+-    Th3inspector
+-    foremost
 
-### Dominios 🛡️
--    Amass
--    Checkdmark
--    Sublist3r
+# Dominios 🛡️
+-    amass
+-    checkdmark
+-    sublist3r
+-    masscan
 
-### Email ✉️
--    Buster
--    H8mail
--    TheHarvester
+# Email ✉️
+-    buster
+-    h8mail
+-    theHarvester
 
-### Herramientas de descarga ⬇️
--    Browse Mirrored Websites
--    Metagoofil
--    Spiderpig
--    WebHTTrack Website Copier
--    Yt-dlp
+# Esteganografía 🖼️
+-    photon
+-    stegosuite
+-    steghide
+  
+# Herramientas de descarga ⬇️
+-    metagoofil
+-    spiderpig
+-    httrack
+-    yt-dlp
 
-### Geolocalización 📍
--    Creepy
+# Infraestructura 🏰
+-    finalRecon
+-    littlebrother
+-    recon-ng
+-    sn0int
+-    spiderfoot
+-    wikileaker
 
-### Web 🌐
--    Carbon14
+# Metadatos 🔬
+-    exif
+-    exiftool
 
-### Esteganografía 🖼️
--    Exiftool
--    Exif
--    Photon
--    Stegosuite Terminal
--    Steghide
+# Números de Teléfono ☎️
+-    phoneInfoga
 
-### Metadatos 🔬
--    Metagoofil
+# Redes Sociales 📱
+-    instaloader
+-    osintgram
+-    twosint
+-    xosint
 
-### Infraestructura 🏰
--    FinalRecon
--    Little Brother
--    Recon-ng
--    Sn0int
--    Spiderfoot
--    WikiLeaker
+# Web 🌐
+-    carbon14
 
-###  Números de Teléfono ☎️
--    PhoneInfoga
--    Th3Inspector
+# Usuarios 👥
+-    blackbird
+-    sherlock
 
-### Redes Sociales 📱
--    Instaloader
--    Osi.ig
--    OSINTGRAM
--    TWOSINT
--    X-Osint
-
-### Usuarios 👥
--    Blackbird
--    Sherlock
-
-
-###  Editor de Texto e IDE 👨‍💻
+###  👨‍💻 Editor de Texto e IDE 👨‍💻
 -    Notepad ++
 -    Pycharm
 -    Visual Studio Code
 
-### 🪛Otras Herramientas🪛    
+### 🪛 Otras Herramientas 🪛    
 - Shodan-python 
 - Maltego 
 - Keepassxc  
