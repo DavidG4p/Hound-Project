@@ -1,4 +1,4 @@
-# Guía Rápida 📖
+# Guía de Iniciación 📖
 Esta guía esta pensada para los analistas que cuentan bajo conocimiento de informática o en entornos virtualizados, la idea es permitir con esta pequeña guía proporcionar al analista una fácil accesibilidad para su utilización.
 
 
