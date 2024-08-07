@@ -171,6 +171,6 @@ Las credenciales de acceso a Pfsense son:
 - Contraseña: "Hound_Pa$$"
 
 > [!IMPORTANT]
-> En caso de contar con un perfil técnico, se ha procedido a generar una pequeña guía donde podremos ver desde la importación del entorno hasta su ejecución en el apartado [_**GUIA_INICIACION.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/00_GUIA_INICIACION.md).
+> En caso de contar con un perfil técnico, se ha procedido a generar una pequeña guía donde podremos ver desde la importación del entorno hasta su ejecución en el apartado [_**00_GUIA_INICIACION.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/00_GUIA_INICIACION.md).
 >
 > Por otro lado, desde el apartado de [_**01_CHEAT_SHEET.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md) se encontrará un pequeño manual de uso con los distintos comandos de las herramientas implementadas.
