@@ -10,9 +10,9 @@ o infracciones de las políticas de seguridad y genera alertas al detectarlas. S
 # Acceso 🚪
 
 Como se ha indicado en puntos anteriores, para comodidad del usuario, se recomienda el inicio de la máquina "Hound Gateway" en modo inicio sin ventana, por ello, para el acceso a la administración de Pfsense 
-se accederá desde el portal web que encontraremos en la máquina "Hound Desktop".
+se accederá desde el portal web que se encontrará en la máquina "Hound Desktop".
 
-Accediendo a la máquina "Hound Desktop", en los navegadores Firefox o Chrome, se encontrará un marcador llamado "Pfsense" (o accediendo a la dirección "https://192.5.1.1"), veremos que nos saldrá una ventana
+Accediendo a la máquina "Hound Desktop", en los navegadores Firefox o Chrome, se encontrará un marcador llamado "Pfsense" (o accediendo a la dirección "https://192.5.1.1"), se mostrará una ventana
 indicando que se está accediendo a un sitio potencialmente peligroso, por lo que para continuar se debe pulsar la opción de "Advanced..." y posteriormente en "Accept the Risk and Continue".
 
 <p align="center">
