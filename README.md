@@ -30,7 +30,7 @@ A continuación, se proporciona una imagen de la topología de la distribución 
 </p>
 
 > [!Note]
-> Ambas máquinas están pensadas para su virtualización en VirtualBox dado que se ha implementado el entorno en dicho software hipervisor, tambien se ha realizado la instalación del agente "GuestAdditions" para su optimo funcionamiento en VirtualBox.
+> Ambas máquinas están pensadas para su virtualización en VirtualBox dado que se ha implementado el entorno en dicho software hipervisor, también se ha realizado la instalación del agente "GuestAdditions" para su optimo funcionamiento en VirtualBox.
 
 # HOUND OS v0.1 💻
 Hound OS como bien se ha indicado en el punto anterior, es una distribución personalizada de Ubuntu 22.04 LTSR, esta distribución se encuentra implementada en la máquina _**Hound Desktop**_. Esta distribución dispone de una gran colección de herramienta, aplicaciones y marcadores enfocados a la investigación OSINT que se detallaran a continuación.
@@ -42,7 +42,7 @@ Hound OS como bien se ha indicado en el punto anterior, es una distribución per
 ## Navegadores 🧭
 
 Dado al amplio número de aplicaciones de navegación Web que se encuentra en el mercado, se ha procedido a optar a implementar los dos navegadores más usados que son Firefox en su versión ESR (Extended Support Release) y Google Chromium. 
-Para estos navegadores, se ha implementado una configuración de seguridad como por ejemplo, la restricción del uso de micrófono, ubicación y la cámara o la eliminación de los datos tras el cierre del navegador.  
+Para estos navegadores, se ha implementado una configuración de seguridad como, por ejemplo, la restricción del uso de micrófono, ubicación y la cámara o la eliminación de los datos tras el cierre del navegador.  
 
 Por otro lado, se ha optado por la instalación de TOR Browser para en caso de ser necesaria la navegación por la Red TOR poder hacerlo con su correspondiente navegador.
 
@@ -52,7 +52,7 @@ Por otro lado, se ha optado por la instalación de TOR Browser para en caso de s
 
 ### Marcadores 🔖
 
-Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser til para cualquier investigación que se lleve a cabo. 
+Tras hacer varias investigaciones, se ha optado a hacer uso de los marcadores de la organización _**OSINT Combine**_ dado que ofrecen un completo abanico de marcadores pudiendo así ser útil para cualquier investigación que se lleve a cabo. 
 
 > [!NOTE]
 > Adjunto en el siguiente [LINK](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) un acceso directo a la página de descarga de los marcadores de OSINT Combine.
