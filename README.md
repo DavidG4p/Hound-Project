@@ -18,6 +18,8 @@ Este entorno consta de dos máquinas virtuales las cuales han sido implementadas
     * Tarjeta Externa que se conecta a una Red NAT teniendo así esa salida al exterior.
     * Tarjeta Interna que se conecta a una Red Interna que solo tiene acceso la máquina _**Hound Gateway**_ y _**Hound Desktop**_.   
 
+> [!NOTE]
+> En el apartado [_**02_INTRO_PFSENSE.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/02_INTRO_PFSENSE.md) se hace una pequeña introducción al inicio de Pfsense como a su configuración y revisión de logs.
 
 *  _**Hound Desktop**_ es la máquina escritorio que usará el analista para proceder a realizar su propia investigación, esta máquina virtual consta de la distribución _**Hound OS**_, una distribución basada en Ubuntu 22.04 LongTermSupport (LTS) y dispone de una gran colección de herramientas, aplicaciones y marcadores que facilitaran la investigación del analista.
 
@@ -146,13 +148,13 @@ No obstante, nos encontraremos herramientas con distintos objetivos por ello, se
 -    Visual Studio Code
 
 ### 🪛 Otras Herramientas 🪛    
-- Shodan-python 
-- Maltego 
-- Keepassxc  
-- Cherrytree 
-- Google Earth Pro 
-- Terminator
-- ProtonMail
+-    Shodan-python
+-    Maltego
+-    Keepassxc  
+-    Cherrytree 
+-    Google Earth Pro 
+-    Terminator
+-    ProtonMail
 
 # Descarga e iniciación del entorno 💻🕵🏻‍♂️
 
@@ -169,4 +171,6 @@ Las credenciales de acceso a Pfsense son:
 - Contraseña: "Hound_Pa$$"
 
 > [!IMPORTANT]
-> En caso de contar con un perfil técnico, se ha procedido a generar una pequeña guía donde podremos ver desde la importación del entorno hasta su ejecución en el siguiente [enlace](https://github.com/DavidG4p/Hound-Project/blob/main/00_GUIA_INICIACION.md) o accediendo a _**GUIA_INICIACION.md**_
+> En caso de contar con un perfil técnico, se ha procedido a generar una pequeña guía donde podremos ver desde la importación del entorno hasta su ejecución en el apartado [_**GUIA_INICIACION.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/00_GUIA_INICIACION.md).
+>
+> Por otro lado, desde el apartado de [_**01_CHEAT_SHEET.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md) se encontrará un pequeño manual de uso con los distintos comandos de las herramientas implementadas.
