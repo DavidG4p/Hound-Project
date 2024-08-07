@@ -56,11 +56,11 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 -    [theHarvester](https://github.com/laramies/theHarvester) -> Herramienta que recopila nombres, correos electrónicos, IPs, subdominios y URLs.
 
 ## Esteganografía 🖼️
--    [stegosuite](https://manpages.debian.org/unstable/stegosuite/stegosuite.1.en.html) -> Herramienta de esteganografía.
+-    [stegosuite](https://manpages.ubuntu.com/manpages/focal/en/man1/stegosuite.1.html) -> Herramienta de esteganografía.
 -    [steghide](https://manpages.ubuntu.com/manpages/trusty/man1/steghide.1.html) -> Herramienta de esteganografía que puede ocultar información en archivos de imagen.
   
 ## Herramientas de descarga ⬇️
--    [httrack](https://manpages.ubuntu.com/manpages/jammy/man1/httrack.1.html) -> Herramienta de descarga de sitios web. 
+-    [httrack](https://manpages.ubuntu.com/manpages/focal/en/man1/httrack.1.html) -> Herramienta de descarga de sitios web. 
 -    [yt-dlp](https://github.com/yt-dlp/yt-dlp) -> Herramienta de descarga de YouTube.
 
 ## Infraestructura 🏰
@@ -74,8 +74,8 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 > En caso de querer usar la versión web de **spiderfoot** se recomienda usar el siguiente comando "*spiderfoot -l 127.0.0.1:5001*" y posteriormente acceder en el navegador a la url "*127.0.0.1:5001*".
 
 ## Metadatos 🔬
--    [exif](https://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) -> Herramienta para mostrar información EXIF oculta en archivos JPEG.
--    [exiftool](https://github.com/exiftool/exiftool) -> Herramienta para leer, escribir y manipular metadatos de imágenes, audio, vídeo y PDF.
+-    [exif](https://manpages.ubuntu.com/manpages/focal/en/man1/exif.1.html) -> Herramienta para mostrar información EXIF oculta en archivos JPEG.
+-    [exiftool](https://manpages.ubuntu.com/manpages/focal/en/man1/exiftool.1p.html) -> Herramienta para leer, escribir y manipular metadatos de imágenes, audio, vídeo y PDF.
 -    [metagoofil](https://github.com/opsdisk/metagoofil) -> Herramienta de extracción de metadatos de documentos públicos.
 -    [spiderpig](https://github.com/hatlord/Spiderpig) -> Herramienta de recolección de metadatos de documentos
 
