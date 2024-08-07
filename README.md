@@ -84,7 +84,7 @@ En el caso de Google Chrome 🇬 se ha implementado las siguientes extensiones:
 ## Herramientas ⚙️
 
 En este apartado, se detallarán las distintas herramientas enfocadas las cuales han sido instaladas en la distribución Hound OS.
-No obstante, se ecnontrarán herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
+No obstante, se encontrarán herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
 
 > [!TIP]
 > Desde el apartado de [_**01_CHEAT_SHEET.md**_](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md) se encontrará un Cheat Sheet junto a un ejemplo de uso con los distintos comandos de las herramientas implementadas.
