@@ -14,7 +14,7 @@ Para comenzar a usar las herramientas, simplemente el analista debe de introduci
 
 En este ejmplo de uso se supondrá que se desea aplicar OSINT a una investigacion de la página web "https://aula.campusciberseguridad.com".
 
-En este caso como el objetivo es una página web se procederá a realizar una busqueda en este repositorio en el apartado de  [Herramientas 🔧](link) si hay algun categoría que se asemeja. En este caso se muestra la categoría "Web 🌐" es idonea para esta investigación, por lo qu el analista se decanta por la herramienta "*carbon14*".
+En este caso como el objetivo es una página web se procederá a realizar una busqueda en este repositorio en el apartado de  [Herramientas 🔧](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md#herramientas-) si hay algun categoría que se asemeja. En este caso se muestra la categoría "Web 🌐" es idonea para esta investigación, por lo qu el analista se decanta por la herramienta "*carbon14*".
 
 En este caso, se desconoce como usar la herramienta por lo que siguiendo las recomendaciones del punto anterior, se procede a introducir el comando "*carbon14*" seguido del parametro "-h". 
 <p align="center">
