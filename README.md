@@ -1,6 +1,6 @@
 # 🚀 EN DESARROLLO 🚀 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/70e76d94-29e6-4bb5-8c32-39eb769b1a78">
+<img src="https://github.com/user-attachments/assets/d3a11e70-cf9d-4c49-a3b7-4aee32755e33">
 </p>
 
 # THE HOUND PROJECT 🐶🔎
