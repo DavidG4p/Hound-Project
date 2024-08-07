@@ -47,16 +47,14 @@ Para acceder a la administración y configuración del servicio Suricata, se deb
 <img src="https://github.com/user-attachments/assets/f6565a23-bd19-4f80-b971-f74d63482ce2"
 </p>
 
-Se encontrará que lo primero que se muestra al usuario es el panel "Interfaces", en el se muestran todas las interfaces que se están monitorizando, en este caso, es la interfaz WAN del Pfsense. Como se puede apreciar en la 
-columna de "Suricata Status", se muestra el estado actual del servicio que en este caso, se encuentra corriendo con el icono del check en verde. 
+Se encontrará que lo primero que se muestra al usuario es el panel "Interfaces", en él se muestran todas las interfaces que se están monitorizando, en este caso, es la interfaz WAN del Pfsense. Como se puede apreciar en la columna de "Suricata Status", se muestra el estado actual del servicio que, en este caso, se encuentra corriendo con el icono del check en verde. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c05c176c-6162-4649-a37e-93709f6aa525"
 </p>
 
 > [!NOTE]
-> Para evitar una experiencia de usuario dificultosa debido a los bloqueos, se ha decidido deshabilitar el modo de bloqueo automático, dado que al probar el sistema operativo, se han experimentado numerosos bloqueos
-> de red al hacer uso de distintas herramientas de OSINT como búsquedas masivas o automatizadas.
+> Para evitar una experiencia de usuario dificultosa debido a los bloqueos, se ha decidido deshabilitar el modo de bloqueo automático, dado que, al probar el sistema operativo se han experimentado numerosos bloqueos de red, debido al uso de distintas herramientas de OSINT como búsquedas masivas o automatizadas.
 
 En el apartado de "Global Settings" se podrá ver las distintas configuraciones que se han aplicado.
 
