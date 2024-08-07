@@ -1,10 +1,10 @@
 # Cheat Sheet 📋
-En este apartado, se explicará de una forma ágil como comenzar a usar las herramientas de consola que han sido instaladas en la máquina. A continuación se verá una lista separada por categorias de las distintas herramientas que se disponen en la distribución, en función de la necesidad del analista se ha procedido a realizar una separación por alcance u objetivo.
+En este apartado, se explicará de una forma ágil como comenzar a usar las herramientas de consola que han sido instaladas en la máquina. A continuación, se verá una lista separada por categorías de las distintas herramientas que se disponen en la distribución, en función de la necesidad del analista se ha procedido a realizar una separación por alcance u objetivo.
 
 Para comenzar a usar las herramientas, simplemente el analista debe de introducir el comando que desee utilizar en una terminal y complementarlo con las opciones o atributos necesarios. 
 
 > [!IMPORTANT]
-> El comando a introducir debe de coincidir tanto en mayusculas como minúsculas con el que se muestra en el listado, esto es debido a que Linux es *case sensitive* (distingue entre mayusculas y minúsculas) a diferencia de por ejemplo Sistemas Operativos como Windows.
+> El comando a introducir debe de coincidir tanto en mayúsculas como minúsculas con el que se muestra en el listado, esto es debido a que Linux es *case sensitive* (distingue entre mayúsculas y minúsculas) a diferencia de por ejemplo Sistemas Operativos como Windows.
 
 
 > [!TIP]
@@ -12,28 +12,28 @@ Para comenzar a usar las herramientas, simplemente el analista debe de introduci
 
 ## Ejemplo de uso 👾
 
-En este ejmplo de uso se supondrá que se desea aplicar OSINT a una investigacion de la página web "https://aula.campusciberseguridad.com".
+En este ejemplo de uso se supondrá que se desea aplicar OSINT a una investigación de la página web "https://aula.campusciberseguridad.com".
 
-En este caso como el objetivo es una página web se procederá a realizar una busqueda en este repositorio en el apartado de  [Herramientas 🔧](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md#herramientas-) si hay algun categoría que se asemeja. En este caso se muestra la categoría "Web 🌐" es idonea para esta investigación, por lo qu el analista se decanta por la herramienta "*carbon14*".
+En este caso como el objetivo es una página web se procederá a realizar una búsqueda en este repositorio en el apartado de  [Herramientas 🔧](https://github.com/DavidG4p/Hound-Project/blob/main/01_CHEAT_SHEET.md#herramientas-) si hay alguna categoría que se asemeja. En este caso se muestra la categoría "Web 🌐" es idónea para esta investigación, por lo que el analista se decanta por la herramienta "*carbon14*".
 
-En este caso, se desconoce como usar la herramienta por lo que siguiendo las recomendaciones del punto anterior, se procede a introducir el comando "*carbon14*" seguido del parametro "-h". 
+En este caso, se desconoce cómo usar la herramienta por lo que, siguiendo las recomendaciones del punto anterior, se procede a introducir el comando "*carbon14*" seguido del párametro "-h". 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bddbe541-67a2-4d60-8044-685b49614346"
 </p>
 
-Tras analizar el comando se comprueba que introduciendo el comando seguido de la url que sequiere investigar ya empieza a realizar un analisis.
+Tras analizar el comando se comprueba que introduciendo el comando seguido de la url que se quiere investigar ya empieza a realizar un análisis.
 
-Tras lanzar el comando se comprueba que ofrece información como las cabeceras HTTP y las imagenes interas y externas.
+Tras lanzar el comando se comprueba que ofrece información como las cabeceras HTTP y las imágenes internas y externas.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2a12095f-c8ff-42bf-a73a-27414913decb"
 </p>
 
 # Herramientas 🔧
-En este apartado, se detallarán las distintas herramientas enfocadas las cuales han sido instaladas en la distribución Hound OS. No obstante, se ecnontrarán herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
+En este apartado, se detallarán las distintas herramientas enfocadas las cuales han sido instaladas en la distribución Hound OS. No obstante, se encontrarán herramientas con distintos objetivos por ello, se ha procedido a separar más adelante en distintas categorías dependiendo de su función.
 
 > [!NOTE]
-> Se ha procedido a generar un hipervinculo en cada harramienta que lleva al repositorio github o manual correspondiente de cada una de las herramientas.
+> Se ha procedido a generar un hipervínculo en cada herramienta que lleva al repositorio GitHub o manual correspondiente de cada una de las herramientas.
 
 ## Análisis de datos 🔎
 -    [dumpsterDiver](https://github.com/securing/DumpsterDiver)  -> Herramienta que puede analizar grandes volúmenes de datos en busca de secretos codificados como claves o contraseñas.
@@ -49,11 +49,11 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 -    [sublist3r](https://github.com/aboul3la/Sublist3r) -> Herramienta para enumerar subdominios de páginas web.
   
 > [!IMPORTANT]
-> En el caso de __amass__, debe de ejecutarse con permisos de administrador. (sudo amass ....)
+> En el caso de __amass__, debe de ejecutarse con permisos de administrador. (sudo amass ...)
 
 ## Email ✉️
 -    [buster](https://github.com/sham00n/buster) -> Herramienta que recopila la información que está vinculada a una dirección de correo electrónico. 
--    [h8mail](https://github.com/khast3x/h8mail) ->  Herramienta de caza de brechas y OSINT de correo electrónico que utiliza diferentes servicios de brechas y reconocimiento, o brechas locales como "Collection1" de Troy Hunt y el infame torrent "Breach Compilation".
+-    [h8mail](https://github.com/khast3x/h8mail) ->  Herramienta de caza de brechas y OSINT de correo electrónico que utiliza diferentes servicios de brechas y reconocimiento, o brechas locales como "Collection1" de Troy Hunt y  "Breach Compilation".
 -    [theHarvester](https://github.com/laramies/theHarvester) -> Herramienta que recopila nombres, correos electrónicos, IPs, subdominios y URLs.
 
 ## Esteganografía 🖼️
@@ -94,6 +94,6 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 -    [carbon14](https://github.com/Lazza/Carbon14) -> Herramienta OSINT para estimar cuándo se escribió una página web.
 
 ## Usuarios 👥
--    [blackbird](https://github.com/p1ngul1n0/blackbird) -> Herramienta OSINT que realiza busquedas de cuentas de usuario por nombre de usuario o correo electrónico.
+-    [blackbird](https://github.com/p1ngul1n0/blackbird) -> Herramienta OSINT que realiza búsquedas de cuentas de usuario por nombre de usuario o correo electrónico.
 -    [littlebrother](https://github.com/lulz3xploit/LittleBrother) -> Herramienta de recopilación de información diseñada para realizar búsquedas sobre una persona francesa, suiza, luxemburguesa o belga.
--    [sherlock](https://github.com/sherlock-project/sherlock) ->  Herramienta de busqueda de redes sociales por nombre de usuario. 
+-    [sherlock](https://github.com/sherlock-project/sherlock) ->  Herramienta de búsqueda de redes sociales por nombre de usuario. 
