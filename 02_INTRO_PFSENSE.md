@@ -62,7 +62,7 @@ En el apartado de "Global Settings" se podrá ver las distintas configuraciones 
 <img src="https://github.com/user-attachments/assets/817c9809-2287-495e-a541-7c805c9c6d1d"
 </p>
 
-Respecto al tipo de reglas que se han implementado, se han procedido a implementar las siguientes normas;
+Respecto al tipo de reglas que se han implementado, se han procedido a implementar las siguientes normas:
 - ETOpen Emerging Threats Rules
 - Snort GPLv2 Community 
 - Feodo Tracker Botnet C2 IP
