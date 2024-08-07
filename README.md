@@ -91,15 +91,15 @@ No obstante, se encontrarán herramientas con distintos objetivos por ello, se h
 
 ### Análisis de datos 🔎
 -    dumpsterDiver
+-    foremost
 -    photon
 -    Th3inspector
--    foremost
 
 ### Dominios 🛡️
 -    amass
 -    checkdmark
--    sublist3r
 -    masscan
+-    sublist3r
 
 ### Email ✉️
 -    buster
@@ -107,19 +107,15 @@ No obstante, se encontrarán herramientas con distintos objetivos por ello, se h
 -    theHarvester
 
 ### Esteganografía 🖼️
--    photon
--    stegosuite
 -    steghide
+-    stegosuite
   
 ### Herramientas de descarga ⬇️
--    metagoofil
--    spiderpig
 -    httrack
 -    yt-dlp
 
 ### Infraestructura 🏰
 -    finalRecon
--    littlebrother
 -    recon-ng
 -    sn0int
 -    spiderfoot
@@ -128,21 +124,25 @@ No obstante, se encontrarán herramientas con distintos objetivos por ello, se h
 ### Metadatos 🔬
 -    exif
 -    exiftool
+-    metagoofil
+-    spiderpig
 
 ### Números de Teléfono ☎️
 -    phoneInfoga
+-    xosint
 
 ### Redes Sociales 📱
 -    instaloader
 -    osintgram
 -    twosint
--    xosint
+
 
 ### Web 🌐
 -    carbon14
 
 ### Usuarios 👥
 -    blackbird
+-    littlebrother
 -    sherlock
 
 ###  👨‍💻 Editor de Texto e IDE 👨‍💻
@@ -151,13 +151,13 @@ No obstante, se encontrarán herramientas con distintos objetivos por ello, se h
 -    Visual Studio Code
 
 ### 🪛 Otras Herramientas 🪛    
--    Shodan-python
+-    Cherrytree
+-    Google Earth Pro
+-    Keepassxc
 -    Maltego
--    Keepassxc  
--    Cherrytree 
--    Google Earth Pro 
--    Terminator
 -    ProtonMail
+-    Shodan-python
+-    Terminator
 
 # Descarga e iniciación del entorno 💻🕵🏻‍♂️
 
