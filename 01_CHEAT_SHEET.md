@@ -37,15 +37,16 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 
 ## Análisis de datos 🔎
 -    [dumpsterDiver](https://github.com/securing/DumpsterDiver)  -> Herramienta que puede analizar grandes volúmenes de datos en busca de secretos codificados como claves o contraseñas.
+-    [foremost](https://github.com/korczis/foremost) -> Herramienta para recuperar archivos basándose en sus cabeceras, pies de página y estructuras de datos internas.
 -    [photon](https://github.com/s0md3v/Photon) -> Extractor de datos, puede extraer datos como: URL, Subdominios y datos relacionados con DNS, ficheros, claves secretas, etc. 
 -    [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) -> Herramienta usada para recopilación de información y reconocimiento.
--    [foremost](https://github.com/korczis/foremost) -> Herramienta para recuperar archivos basándose en sus cabeceras, pies de página y estructuras de datos internas.
+
 
 ## Dominios 🛡️
 -    [amass](https://github.com/owasp-amass/amass) -> Herramienta que realiza el mapeo de redes de superficies de ataque y el descubrimiento de activos externos.
 -    [checkdmark](https://github.com/domainaware/checkdmarc) -> Herramienta para validar registros DNS SPF y DMARC.
--    [sublist3r](https://github.com/aboul3la/Sublist3r) -> Herramienta para enumerar subdominios de páginas web.
 -    [masscan](https://github.com/robertdavidgraham/masscan) -> Herramienta que puede escanear rápidamente grandes rangos de direcciones IP y puertos en poco tiempo.
+-    [sublist3r](https://github.com/aboul3la/Sublist3r) -> Herramienta para enumerar subdominios de páginas web.
   
 > [!IMPORTANT]
 > En el caso de __amass__, debe de ejecutarse con permisos de administrador. (sudo amass ....)
@@ -56,8 +57,8 @@ En este apartado, se detallarán las distintas herramientas enfocadas las cuales
 -    [theHarvester](https://github.com/laramies/theHarvester) -> Herramienta que recopila nombres, correos electrónicos, IPs, subdominios y URLs.
 
 ## Esteganografía 🖼️
--    [stegosuite](https://manpages.ubuntu.com/manpages/focal/en/man1/stegosuite.1.html) -> Herramienta de esteganografía.
 -    [steghide](https://manpages.ubuntu.com/manpages/trusty/man1/steghide.1.html) -> Herramienta de esteganografía que puede ocultar información en archivos de imagen.
+-    [stegosuite](https://manpages.ubuntu.com/manpages/focal/en/man1/stegosuite.1.html) -> Herramienta de esteganografía.
   
 ## Herramientas de descarga ⬇️
 -    [httrack](https://manpages.ubuntu.com/manpages/focal/en/man1/httrack.1.html) -> Herramienta de descarga de sitios web. 
